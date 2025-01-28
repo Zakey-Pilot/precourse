@@ -11,4 +11,4 @@ hit the ground running.
 5. Organize your [laptop](../materials/organize-your-laptop.md)
 6. Setup [GitHub](../materials/github-setup.md)
 7. Setup [Git](../materials/git-setup.md)
-8. Prepare for the next module [Workflows](../materials/workflows.md)
+8. Prepare for the next module!

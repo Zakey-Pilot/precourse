@@ -23,10 +23,8 @@ development, pushing and pulling to github, and hosting static web pages.
 - [Precourse](#precourse)
   - [Learning Objectives](#learning-objectives)
   - [Suggested Study](#suggested-study)
-  - [How to HYF](#how-to-hyf)
   - [Lesson Plans](#lesson-plans)
   - [Deliverables](#deliverables)
-  - [Class Repository](#class-repository)
 
 ## Learning Objectives
 
@@ -63,27 +61,9 @@ study time and to measure your progress:
         author, and milestone.
   - [ ] 🥚 **Project Boards**: You can use issues on a GitHub project board to
         track your class assignments and help your classmates when they need it.
-- **HYF Workflows**:
-  - [ ] 🥚 **Check-Ins**: You can use the `check-in` template to track your
-        module learning objectives, and your weekly progress (and to post a
-        retrospective at the end of the module). You create one check-in issue
-        per module in the class repo and each Thursday you add a check-in
-        comment to it and the label for the corresponding week. After review, we
-        add the checked label. No need to remove previous labels either. So as
-        an example, after a 5-week module, you would have 5 comments and 5
-        labels added by you.
-  - [ ] 🥚 **Deliverables**: You can create an issue for this module's
-        `deliverable` and track your progress on the class project board. Each
-        week, there are different assignments/deliverables. If it is an
-        individual project, you create your deliverable issue for it in the
-        class repo. If it is a group project, the entire group creates 1 issue
-        together in the class repo.
-  - [ ] 🥚 **Asking for Help**: You can use the `help-wanted` template in your
-        class repository's Discussion board to ask for help, and to help your
-        classmates when they are blocked.
 - **Your Computer**:
   - [ ] 🥚 **File System Management**: You can create and organize a new folder
-        in your personal computer for the materials you will study at HYF.
+        in your personal computer for the materials you will study.
 - **Visual Studio Code**:
   - [ ] 🥚 Install and manage extensions
   - [ ] 🥚 Open a folder for editing
@@ -94,19 +74,6 @@ study time and to measure your progress:
 
 [CLICK HERE](./suggested-study.md)
 
-## How to HYF
-
-We are a community of people who want to make the web a better place.
-
-You can expect a growing network, friendships, Sunday fun, a lot of learning, hard times getting stuck in code, and satisfaction when you reach your goals.
-
-Take a look through our
-
-- [HYF Youtube channel](https://www.youtube.com/@HYF-BE)
-- [Core Values](https://home.hackyourfuture.be/core-values) and
-- [Code of Conduct](https://home.hackyourfuture.be/code-of-conduct) so we can make
-the web a better place together!
-
 ## Lesson Plans
 
 [CLICK HERE](./lesson-plans/README.md)
@@ -114,17 +81,3 @@ the web a better place together!
 ## Deliverables
 
 [CLICK HERE](./deliverables/README.md)
-
-## Class Repository
-
-> _how we collaborate_
-
-Your class repository is the home base for each module and most assignments at
-HYF. You will use your class repo to:
-
-- Get to know each other
-- Ask for help, and help your classmates
-- Find links to all the modules and study references
-- Submit check-ins and projects
-- Get feedback from coaches
-- Share helpful study resources
